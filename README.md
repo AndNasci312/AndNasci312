@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é andre (mas pode me chamar de DECO) e esse perfil tem como objetivo, postar scripts relacionados a <br>programação básica e protótipos de projetos<br><br>✨ Formado em Sistemas da Informação<br>📚 Atualmente, possuo interesse em Ciencia de dados e Automoção<br>🎯 Tenho como objetivo, registrar toda a minha jornada de aprendizado como auto-didata<br>🎲 Gamer e eterno NERD!</p>
+<p align="left">Meu nome é andré (mas pode me chamar de DECO) e esse perfil tem como objetivo, postar scripts relacionados a <br>programação básica e protótipos de projetos<br><br>✨ Formado em Sistemas da Informação<br>📚 Atualmente, possuo interesse em Ciencia de dados e Automoção<br>🎯 Tenho como objetivo, registrar toda a minha jornada de aprendizado como auto-didata<br>🎲 Gamer e eterno NERD!</p>
 
 ###
 
