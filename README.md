@@ -37,8 +37,8 @@
 <div align="left">
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?logo=eclipseide&logoColor=white&style=for-the-badge" height="40" alt="eclipseide logo"  />
-  <img width="12" />
+  <!-- <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?logo=eclipseide&logoColor=white&style=for-the-badge" height="40" alt="eclipseide logo"  />
+  <img width="12" /> -->
   <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white&style=for-the-badge" height="40" alt="anaconda logo"  />
 </div>
 
